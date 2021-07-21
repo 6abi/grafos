@@ -1,1 +1,37 @@
-[{"Porta": 1, "Conexao": "CORE01", "Descricao": "ISL PORT", "DIO": "PATCH CORD", "Velocidade ( Giga )": 10, "Alteracao": null}, {"Porta": 2, "Conexao": "AGG_PACS", "Descricao": "PO 101", "DIO": "TWINAX", "Velocidade ( Giga )": 10, "Alteracao": null}, {"Porta": 17, "Conexao": "INRAD01", "Descricao": "ISL PORT", "DIO": "RX2/TX2 ( Jumper NETI + Anel )", "Velocidade ( Giga )": 10, "Alteracao": null}, {"Porta": 18, "Conexao": "AGG_PACS", "Descricao": "PO 101", "DIO": "TWINAX", "Velocidade ( Giga )": 10, "Alteracao": null}, {"Porta": 19, "Conexao": "CORE02", "Descricao": "ISL PORT", "DIO": "PATCH CORD", "Velocidade ( Giga )": 10, "Alteracao": null}, {"Porta": 33, "Conexao": "NETI", "Descricao": "ISLPORT", "DIO": "DIO PACS / ESP.1 / RX1/TX1", "Velocidade ( Giga )": 10, "Alteracao": 1563321600000}]
+[
+    {
+        "Porta": 18,
+        "Conexao": "CORE01",
+        "Descricao": "ISL PORT",
+        "DIO": "TX3/RX3",
+        "Velocidade ( Giga )": 10
+    },
+    {
+        "Porta": 2,
+        "Conexao": "AGG_CMN",
+        "Descricao": "Trunk",
+        "DIO": "TWINAX",
+        "Velocidade ( Giga )": 10
+    },
+    {
+        "Porta": 17,
+        "Conexao": "IPQ",
+        "Descricao": "ISLPORT",
+        "DIO": "RX4/TX4",
+        "Velocidade ( Giga )": 10
+    },
+    {
+        "Porta": 19,
+        "Conexao": "INRAD",
+        "Descricao": "ISLPORT",
+        "DIO": "PAR 29",
+        "Velocidade ( Giga )": 10
+    },
+    {
+        "Porta": 33,
+        "Conexao": "PABX",
+        "Descricao": "ISLPORT",
+        "DIO": "DIO01 PAR01-03 RX1/TX1",
+        "Velocidade ( Giga )": 10
+    }
+]
