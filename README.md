@@ -58,3 +58,13 @@
 	<p align="center">Done ! ✅</p>
 </div>
 
+<!-- Resultados -->
+<!-- Resultado forms -->
+<div align="center" class='container'>
+	<h2 align="center"> ⚡ Resultado inicial - Grafo  ⚡</h2>
+</div>
+<div align="center" class='result'>
+	<img alt="#grafo" title="#grafo" src="./output/grafo.png" width=1000" height="1000"/>
+</div>
+
+
