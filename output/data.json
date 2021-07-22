@@ -1,6 +1,7 @@
 [
     [
         {
+            "Fonte": "CMN01",
             "Porta": 18,
             "Conexao": "CORE01",
             "Descricao": "ISL PORT",
@@ -8,6 +9,7 @@
             "Velocidade ( Giga )": 10
         },
         {
+            "Fonte": "CMN01",
             "Porta": 2,
             "Conexao": "AGG_CMN",
             "Descricao": "Trunk",
@@ -15,6 +17,7 @@
             "Velocidade ( Giga )": 10
         },
         {
+            "Fonte": "CMN01",
             "Porta": 17,
             "Conexao": "IPQ",
             "Descricao": "ISLPORT",
@@ -22,6 +25,7 @@
             "Velocidade ( Giga )": 10
         },
         {
+            "Fonte": "CMN01",
             "Porta": 19,
             "Conexao": "INRAD",
             "Descricao": "ISLPORT",
@@ -29,6 +33,7 @@
             "Velocidade ( Giga )": 10
         },
         {
+            "Fonte": "CMN01",
             "Porta": 33,
             "Conexao": "PABX",
             "Descricao": "ISLPORT",
@@ -38,6 +43,7 @@
     ],
     [
         {
+            "Fonte": "CORE01",
             "Porta": 1,
             "Conexao": null,
             "Descricao": null,
@@ -46,6 +52,7 @@
             "Alteracao": null
         },
         {
+            "Fonte": "CORE01",
             "Porta": 2,
             "Conexao": "ICHC01",
             "Descricao": "ISL PORT",
@@ -54,6 +61,7 @@
             "Alteracao": 1564358400000
         },
         {
+            "Fonte": "CORE01",
             "Porta": 3,
             "Conexao": "IPQ",
             "Descricao": null,
@@ -62,6 +70,7 @@
             "Alteracao": null
         },
         {
+            "Fonte": "CORE01",
             "Porta": 4,
             "Conexao": null,
             "Descricao": null,
@@ -70,6 +79,7 @@
             "Alteracao": null
         },
         {
+            "Fonte": "CORE01",
             "Porta": 5,
             "Conexao": "EEP01",
             "Descricao": "ISL PORT",
@@ -78,6 +88,7 @@
             "Alteracao": 1564531200000
         },
         {
+            "Fonte": "CORE01",
             "Porta": 6,
             "Conexao": "PABX01",
             "Descricao": "ISL PORT",
@@ -86,6 +97,7 @@
             "Alteracao": 1565740800000
         },
         {
+            "Fonte": "CORE01",
             "Porta": 7,
             "Conexao": "CDM01",
             "Descricao": "ISL PORT",
@@ -94,6 +106,7 @@
             "Alteracao": 1570665600000
         },
         {
+            "Fonte": "CORE01",
             "Porta": 8,
             "Conexao": "FFM",
             "Descricao": null,
@@ -102,6 +115,7 @@
             "Alteracao": null
         },
         {
+            "Fonte": "CORE01",
             "Porta": 9,
             "Conexao": null,
             "Descricao": null,
@@ -110,6 +124,7 @@
             "Alteracao": null
         },
         {
+            "Fonte": "CORE01",
             "Porta": 10,
             "Conexao": "SECSAUDE",
             "Descricao": null,
@@ -118,6 +133,7 @@
             "Alteracao": null
         },
         {
+            "Fonte": "CORE01",
             "Porta": 11,
             "Conexao": "REP DEGAS_USP",
             "Descricao": null,
@@ -126,6 +142,7 @@
             "Alteracao": null
         },
         {
+            "Fonte": "CORE01",
             "Porta": 12,
             "Conexao": null,
             "Descricao": null,
@@ -134,6 +151,7 @@
             "Alteracao": null
         },
         {
+            "Fonte": "CORE01",
             "Porta": 13,
             "Conexao": null,
             "Descricao": null,
@@ -142,6 +160,7 @@
             "Alteracao": null
         },
         {
+            "Fonte": "CORE01",
             "Porta": 14,
             "Conexao": null,
             "Descricao": null,
@@ -150,6 +169,7 @@
             "Alteracao": null
         },
         {
+            "Fonte": "CORE01",
             "Porta": 15,
             "Conexao": null,
             "Descricao": null,
@@ -158,6 +178,7 @@
             "Alteracao": null
         },
         {
+            "Fonte": "CORE01",
             "Porta": 16,
             "Conexao": null,
             "Descricao": null,
@@ -166,6 +187,7 @@
             "Alteracao": null
         },
         {
+            "Fonte": "CORE01",
             "Porta": 17,
             "Conexao": "ICR01",
             "Descricao": "ISL PORT",
@@ -174,6 +196,7 @@
             "Alteracao": null
         },
         {
+            "Fonte": "CORE01",
             "Porta": 18,
             "Conexao": "CMN01",
             "Descricao": "ISL PORT",
@@ -182,6 +205,7 @@
             "Alteracao": null
         },
         {
+            "Fonte": "CORE01",
             "Porta": 19,
             "Conexao": "PACS01",
             "Descricao": "ISL PORT",
@@ -190,6 +214,7 @@
             "Alteracao": null
         },
         {
+            "Fonte": "CORE01",
             "Porta": 20,
             "Conexao": "FM01",
             "Descricao": "ISL PORT",
@@ -198,6 +223,7 @@
             "Alteracao": null
         },
         {
+            "Fonte": "CORE01",
             "Porta": 21,
             "Conexao": "INCOR01",
             "Descricao": "ISL PORT",
@@ -206,6 +232,7 @@
             "Alteracao": null
         },
         {
+            "Fonte": "CORE01",
             "Porta": 22,
             "Conexao": null,
             "Descricao": null,
@@ -214,6 +241,7 @@
             "Alteracao": null
         },
         {
+            "Fonte": "CORE01",
             "Porta": 23,
             "Conexao": null,
             "Descricao": null,
@@ -222,6 +250,7 @@
             "Alteracao": null
         },
         {
+            "Fonte": "CORE01",
             "Porta": 24,
             "Conexao": null,
             "Descricao": null,
@@ -230,6 +259,7 @@
             "Alteracao": null
         },
         {
+            "Fonte": "CORE01",
             "Porta": 25,
             "Conexao": null,
             "Descricao": null,
@@ -238,6 +268,7 @@
             "Alteracao": null
         },
         {
+            "Fonte": "CORE01",
             "Porta": 26,
             "Conexao": null,
             "Descricao": null,
@@ -246,6 +277,7 @@
             "Alteracao": null
         },
         {
+            "Fonte": "CORE01",
             "Porta": 27,
             "Conexao": null,
             "Descricao": null,
@@ -254,6 +286,7 @@
             "Alteracao": null
         },
         {
+            "Fonte": "CORE01",
             "Porta": 28,
             "Conexao": null,
             "Descricao": null,
@@ -262,6 +295,7 @@
             "Alteracao": null
         },
         {
+            "Fonte": "CORE01",
             "Porta": 29,
             "Conexao": null,
             "Descricao": null,
@@ -270,6 +304,7 @@
             "Alteracao": null
         },
         {
+            "Fonte": "CORE01",
             "Porta": 30,
             "Conexao": "CORE02",
             "Descricao": "ISL PORT",
@@ -278,6 +313,7 @@
             "Alteracao": null
         },
         {
+            "Fonte": "CORE01",
             "Porta": 31,
             "Conexao": null,
             "Descricao": null,
@@ -286,6 +322,7 @@
             "Alteracao": null
         },
         {
+            "Fonte": "CORE01",
             "Porta": 32,
             "Conexao": "CORE02",
             "Descricao": "ISL PORT",
@@ -294,6 +331,7 @@
             "Alteracao": null
         },
         {
+            "Fonte": "CORE01",
             "Porta": 33,
             "Conexao": "TELEMEDICINA",
             "Descricao": null,
@@ -302,6 +340,7 @@
             "Alteracao": null
         },
         {
+            "Fonte": "CORE01",
             "Porta": 34,
             "Conexao": null,
             "Descricao": null,
@@ -310,6 +349,7 @@
             "Alteracao": null
         },
         {
+            "Fonte": "CORE01",
             "Porta": 35,
             "Conexao": null,
             "Descricao": null,
@@ -318,6 +358,7 @@
             "Alteracao": null
         },
         {
+            "Fonte": "CORE01",
             "Porta": 36,
             "Conexao": null,
             "Descricao": null,
@@ -326,6 +367,7 @@
             "Alteracao": null
         },
         {
+            "Fonte": "CORE01",
             "Porta": 37,
             "Conexao": null,
             "Descricao": null,
@@ -334,6 +376,7 @@
             "Alteracao": null
         },
         {
+            "Fonte": "CORE01",
             "Porta": 38,
             "Conexao": null,
             "Descricao": null,
@@ -342,6 +385,7 @@
             "Alteracao": null
         },
         {
+            "Fonte": "CORE01",
             "Porta": 39,
             "Conexao": null,
             "Descricao": null,
@@ -350,6 +394,7 @@
             "Alteracao": null
         },
         {
+            "Fonte": "CORE01",
             "Porta": 40,
             "Conexao": null,
             "Descricao": null,
@@ -358,6 +403,7 @@
             "Alteracao": null
         },
         {
+            "Fonte": "CORE01",
             "Porta": 41,
             "Conexao": null,
             "Descricao": null,
@@ -366,6 +412,7 @@
             "Alteracao": null
         },
         {
+            "Fonte": "CORE01",
             "Porta": 42,
             "Conexao": null,
             "Descricao": null,
@@ -374,6 +421,7 @@
             "Alteracao": null
         },
         {
+            "Fonte": "CORE01",
             "Porta": 43,
             "Conexao": "DC01",
             "Descricao": "PO 100",
@@ -382,6 +430,7 @@
             "Alteracao": null
         },
         {
+            "Fonte": "CORE01",
             "Porta": 44,
             "Conexao": null,
             "Descricao": null,
@@ -390,6 +439,7 @@
             "Alteracao": null
         },
         {
+            "Fonte": "CORE01",
             "Porta": 45,
             "Conexao": "DC02",
             "Descricao": "PO 100",
@@ -398,6 +448,7 @@
             "Alteracao": null
         },
         {
+            "Fonte": "CORE01",
             "Porta": 46,
             "Conexao": null,
             "Descricao": null,
@@ -406,6 +457,7 @@
             "Alteracao": null
         },
         {
+            "Fonte": "CORE01",
             "Porta": 47,
             "Conexao": null,
             "Descricao": null,
@@ -414,6 +466,7 @@
             "Alteracao": null
         },
         {
+            "Fonte": "CORE01",
             "Porta": 48,
             "Conexao": "MGMT_DELL",
             "Descricao": null,
@@ -424,14 +477,16 @@
     ],
     [
         {
+            "Fonte": "CORE02",
             "Porta": 1,
             "Conexao": "NETI01",
             "Descricao": "ISL PORT",
             "DIO": "DIO 16 /ESP.1/RX1 /TX2",
             "Velocidade ( Giga )": 10.0,
-            "Alteracao": 43663
+            "Alteracao": 1563321600000
         },
         {
+            "Fonte": "CORE02",
             "Porta": 2,
             "Conexao": null,
             "Descricao": null,
@@ -440,6 +495,7 @@
             "Alteracao": null
         },
         {
+            "Fonte": "CORE02",
             "Porta": 3,
             "Conexao": "PA",
             "Descricao": null,
@@ -448,22 +504,25 @@
             "Alteracao": null
         },
         {
+            "Fonte": "CORE02",
             "Porta": 4,
             "Conexao": "CCR01",
             "Descricao": "ISL PORT",
             "DIO": " DIO 2 / ESP. 3 / RX1 /TX1",
             "Velocidade ( Giga )": 10.0,
-            "Alteracao": 43691
+            "Alteracao": 1565740800000
         },
         {
+            "Fonte": "CORE02",
             "Porta": 5,
             "Conexao": "CEAC01",
             "Descricao": "ISL PORT",
             "DIO": "DIO 13 / ESP. 1 / RX2 / TX2",
             "Velocidade ( Giga )": 10.0,
-            "Alteracao": 43714
+            "Alteracao": 1567728000000
         },
         {
+            "Fonte": "CORE02",
             "Porta": 6,
             "Conexao": null,
             "Descricao": null,
@@ -472,6 +531,7 @@
             "Alteracao": null
         },
         {
+            "Fonte": "CORE02",
             "Porta": 7,
             "Conexao": "PAMB01",
             "Descricao": "ISL PORT",
@@ -480,6 +540,7 @@
             "Alteracao": 1574294400000
         },
         {
+            "Fonte": "CORE02",
             "Porta": 8,
             "Conexao": "ER",
             "Descricao": null,
@@ -488,6 +549,7 @@
             "Alteracao": null
         },
         {
+            "Fonte": "CORE02",
             "Porta": 9,
             "Conexao": null,
             "Descricao": null,
@@ -496,6 +558,7 @@
             "Alteracao": null
         },
         {
+            "Fonte": "CORE02",
             "Porta": 10,
             "Conexao": null,
             "Descricao": null,
@@ -504,6 +567,7 @@
             "Alteracao": 1573430400000
         },
         {
+            "Fonte": "CORE02",
             "Porta": 11,
             "Conexao": "CLAUDIA",
             "Descricao": null,
@@ -512,6 +576,7 @@
             "Alteracao": null
         },
         {
+            "Fonte": "CORE02",
             "Porta": 12,
             "Conexao": null,
             "Descricao": null,
@@ -520,6 +585,7 @@
             "Alteracao": null
         },
         {
+            "Fonte": "CORE02",
             "Porta": 13,
             "Conexao": "NETI01",
             "Descricao": null,
@@ -528,6 +594,7 @@
             "Alteracao": null
         },
         {
+            "Fonte": "CORE02",
             "Porta": 14,
             "Conexao": null,
             "Descricao": null,
@@ -536,6 +603,7 @@
             "Alteracao": null
         },
         {
+            "Fonte": "CORE02",
             "Porta": 15,
             "Conexao": null,
             "Descricao": null,
@@ -544,6 +612,7 @@
             "Alteracao": null
         },
         {
+            "Fonte": "CORE02",
             "Porta": 16,
             "Conexao": null,
             "Descricao": null,
@@ -552,6 +621,7 @@
             "Alteracao": null
         },
         {
+            "Fonte": "CORE02",
             "Porta": 17,
             "Conexao": "INRAD01",
             "Descricao": "ISLPORT",
@@ -560,6 +630,7 @@
             "Alteracao": null
         },
         {
+            "Fonte": "CORE02",
             "Porta": 18,
             "Conexao": "PISA01",
             "Descricao": "ISLPORT",
@@ -568,6 +639,7 @@
             "Alteracao": null
         },
         {
+            "Fonte": "CORE02",
             "Porta": 19,
             "Conexao": "PACS01",
             "Descricao": "ISLPORT",
@@ -576,6 +648,7 @@
             "Alteracao": null
         },
         {
+            "Fonte": "CORE02",
             "Porta": 20,
             "Conexao": "ICESP01",
             "Descricao": "ISLPORT",
@@ -584,6 +657,7 @@
             "Alteracao": null
         },
         {
+            "Fonte": "CORE02",
             "Porta": 21,
             "Conexao": "IPQ01",
             "Descricao": "ISLPORT",
@@ -592,6 +666,7 @@
             "Alteracao": null
         },
         {
+            "Fonte": "CORE02",
             "Porta": 22,
             "Conexao": "IOT01",
             "Descricao": "ISLPORT",
@@ -600,6 +675,7 @@
             "Alteracao": null
         },
         {
+            "Fonte": "CORE02",
             "Porta": 23,
             "Conexao": null,
             "Descricao": null,
@@ -608,6 +684,7 @@
             "Alteracao": null
         },
         {
+            "Fonte": "CORE02",
             "Porta": 24,
             "Conexao": "ICR01",
             "Descricao": "ISL PORT",
@@ -616,6 +693,7 @@
             "Alteracao": null
         },
         {
+            "Fonte": "CORE02",
             "Porta": 25,
             "Conexao": null,
             "Descricao": null,
@@ -624,6 +702,7 @@
             "Alteracao": null
         },
         {
+            "Fonte": "CORE02",
             "Porta": 26,
             "Conexao": null,
             "Descricao": null,
@@ -632,6 +711,7 @@
             "Alteracao": null
         },
         {
+            "Fonte": "CORE02",
             "Porta": 27,
             "Conexao": null,
             "Descricao": null,
@@ -640,6 +720,7 @@
             "Alteracao": null
         },
         {
+            "Fonte": "CORE02",
             "Porta": 28,
             "Conexao": null,
             "Descricao": null,
@@ -648,6 +729,7 @@
             "Alteracao": null
         },
         {
+            "Fonte": "CORE02",
             "Porta": 29,
             "Conexao": null,
             "Descricao": null,
@@ -656,6 +738,7 @@
             "Alteracao": null
         },
         {
+            "Fonte": "CORE02",
             "Porta": 30,
             "Conexao": "CORE01",
             "Descricao": "ISL PORT",
@@ -664,6 +747,7 @@
             "Alteracao": null
         },
         {
+            "Fonte": "CORE02",
             "Porta": 31,
             "Conexao": null,
             "Descricao": null,
@@ -672,6 +756,7 @@
             "Alteracao": null
         },
         {
+            "Fonte": "CORE02",
             "Porta": 32,
             "Conexao": "CORE01",
             "Descricao": "ISL PORT",
@@ -680,6 +765,7 @@
             "Alteracao": null
         },
         {
+            "Fonte": "CORE02",
             "Porta": 33,
             "Conexao": null,
             "Descricao": null,
@@ -688,6 +774,7 @@
             "Alteracao": null
         },
         {
+            "Fonte": "CORE02",
             "Porta": 34,
             "Conexao": null,
             "Descricao": null,
@@ -696,6 +783,7 @@
             "Alteracao": null
         },
         {
+            "Fonte": "CORE02",
             "Porta": 35,
             "Conexao": null,
             "Descricao": null,
@@ -704,6 +792,7 @@
             "Alteracao": null
         },
         {
+            "Fonte": "CORE02",
             "Porta": 36,
             "Conexao": null,
             "Descricao": null,
@@ -712,6 +801,7 @@
             "Alteracao": null
         },
         {
+            "Fonte": "CORE02",
             "Porta": 37,
             "Conexao": null,
             "Descricao": null,
@@ -720,6 +810,7 @@
             "Alteracao": null
         },
         {
+            "Fonte": "CORE02",
             "Porta": 38,
             "Conexao": null,
             "Descricao": null,
@@ -728,6 +819,7 @@
             "Alteracao": null
         },
         {
+            "Fonte": "CORE02",
             "Porta": 39,
             "Conexao": null,
             "Descricao": null,
@@ -736,6 +828,7 @@
             "Alteracao": null
         },
         {
+            "Fonte": "CORE02",
             "Porta": 40,
             "Conexao": null,
             "Descricao": null,
@@ -744,6 +837,7 @@
             "Alteracao": null
         },
         {
+            "Fonte": "CORE02",
             "Porta": 41,
             "Conexao": null,
             "Descricao": null,
@@ -752,6 +846,7 @@
             "Alteracao": null
         },
         {
+            "Fonte": "CORE02",
             "Porta": 42,
             "Conexao": null,
             "Descricao": null,
@@ -760,6 +855,7 @@
             "Alteracao": null
         },
         {
+            "Fonte": "CORE02",
             "Porta": 43,
             "Conexao": "DC02",
             "Descricao": "PO 100",
@@ -768,6 +864,7 @@
             "Alteracao": null
         },
         {
+            "Fonte": "CORE02",
             "Porta": 44,
             "Conexao": null,
             "Descricao": null,
@@ -776,6 +873,7 @@
             "Alteracao": null
         },
         {
+            "Fonte": "CORE02",
             "Porta": 45,
             "Conexao": "DC01",
             "Descricao": "PO 100",
@@ -784,6 +882,7 @@
             "Alteracao": null
         },
         {
+            "Fonte": "CORE02",
             "Porta": 46,
             "Conexao": null,
             "Descricao": null,
@@ -792,6 +891,7 @@
             "Alteracao": null
         },
         {
+            "Fonte": "CORE02",
             "Porta": 47,
             "Conexao": null,
             "Descricao": null,
@@ -800,6 +900,7 @@
             "Alteracao": null
         },
         {
+            "Fonte": "CORE02",
             "Porta": 48,
             "Conexao": null,
             "Descricao": null,
@@ -808,6 +909,7 @@
             "Alteracao": null
         },
         {
+            "Fonte": null,
             "Porta": null,
             "Conexao": null,
             "Descricao": null,
@@ -816,6 +918,7 @@
             "Alteracao": null
         },
         {
+            "Fonte": null,
             "Porta": null,
             "Conexao": null,
             "Descricao": null,
@@ -824,6 +927,7 @@
             "Alteracao": null
         },
         {
+            "Fonte": null,
             "Porta": null,
             "Conexao": null,
             "Descricao": null,
@@ -832,6 +936,7 @@
             "Alteracao": null
         },
         {
+            "Fonte": null,
             "Porta": null,
             "Conexao": null,
             "Descricao": null,
@@ -840,6 +945,7 @@
             "Alteracao": null
         },
         {
+            "Fonte": null,
             "Porta": null,
             "Conexao": null,
             "Descricao": null,
@@ -848,6 +954,7 @@
             "Alteracao": null
         },
         {
+            "Fonte": null,
             "Porta": null,
             "Conexao": null,
             "Descricao": null,
@@ -856,6 +963,7 @@
             "Alteracao": null
         },
         {
+            "Fonte": null,
             "Porta": null,
             "Conexao": null,
             "Descricao": null,
@@ -864,6 +972,7 @@
             "Alteracao": null
         },
         {
+            "Fonte": null,
             "Porta": null,
             "Conexao": null,
             "Descricao": null,
@@ -872,6 +981,7 @@
             "Alteracao": null
         },
         {
+            "Fonte": null,
             "Porta": null,
             "Conexao": null,
             "Descricao": null,
@@ -880,6 +990,7 @@
             "Alteracao": null
         },
         {
+            "Fonte": null,
             "Porta": null,
             "Conexao": null,
             "Descricao": null,
@@ -888,6 +999,7 @@
             "Alteracao": null
         },
         {
+            "Fonte": null,
             "Porta": null,
             "Conexao": null,
             "Descricao": null,
@@ -896,6 +1008,7 @@
             "Alteracao": null
         },
         {
+            "Fonte": null,
             "Porta": null,
             "Conexao": null,
             "Descricao": null,
@@ -904,6 +1017,7 @@
             "Alteracao": null
         },
         {
+            "Fonte": null,
             "Porta": null,
             "Conexao": null,
             "Descricao": null,
@@ -912,6 +1026,7 @@
             "Alteracao": null
         },
         {
+            "Fonte": null,
             "Porta": null,
             "Conexao": null,
             "Descricao": null,
@@ -920,6 +1035,7 @@
             "Alteracao": null
         },
         {
+            "Fonte": null,
             "Porta": null,
             "Conexao": null,
             "Descricao": null,
@@ -928,6 +1044,7 @@
             "Alteracao": null
         },
         {
+            "Fonte": null,
             "Porta": null,
             "Conexao": null,
             "Descricao": null,
@@ -936,6 +1053,7 @@
             "Alteracao": null
         },
         {
+            "Fonte": null,
             "Porta": null,
             "Conexao": null,
             "Descricao": null,
@@ -944,6 +1062,7 @@
             "Alteracao": null
         },
         {
+            "Fonte": null,
             "Porta": null,
             "Conexao": null,
             "Descricao": null,
@@ -952,6 +1071,7 @@
             "Alteracao": null
         },
         {
+            "Fonte": null,
             "Porta": null,
             "Conexao": null,
             "Descricao": null,
@@ -960,6 +1080,7 @@
             "Alteracao": null
         },
         {
+            "Fonte": null,
             "Porta": null,
             "Conexao": null,
             "Descricao": null,
@@ -968,6 +1089,7 @@
             "Alteracao": null
         },
         {
+            "Fonte": null,
             "Porta": null,
             "Conexao": null,
             "Descricao": null,
@@ -976,6 +1098,7 @@
             "Alteracao": null
         },
         {
+            "Fonte": null,
             "Porta": null,
             "Conexao": null,
             "Descricao": null,
@@ -984,6 +1107,7 @@
             "Alteracao": null
         },
         {
+            "Fonte": null,
             "Porta": null,
             "Conexao": null,
             "Descricao": null,
@@ -992,6 +1116,7 @@
             "Alteracao": null
         },
         {
+            "Fonte": null,
             "Porta": null,
             "Conexao": null,
             "Descricao": null,
@@ -1000,6 +1125,7 @@
             "Alteracao": null
         },
         {
+            "Fonte": null,
             "Porta": null,
             "Conexao": null,
             "Descricao": null,
@@ -1008,6 +1134,7 @@
             "Alteracao": null
         },
         {
+            "Fonte": null,
             "Porta": null,
             "Conexao": null,
             "Descricao": null,
@@ -1016,6 +1143,7 @@
             "Alteracao": null
         },
         {
+            "Fonte": null,
             "Porta": null,
             "Conexao": null,
             "Descricao": null,
@@ -1024,6 +1152,7 @@
             "Alteracao": null
         },
         {
+            "Fonte": null,
             "Porta": null,
             "Conexao": null,
             "Descricao": null,
@@ -1032,6 +1161,7 @@
             "Alteracao": null
         },
         {
+            "Fonte": null,
             "Porta": null,
             "Conexao": null,
             "Descricao": null,
@@ -1040,6 +1170,7 @@
             "Alteracao": null
         },
         {
+            "Fonte": null,
             "Porta": null,
             "Conexao": null,
             "Descricao": null,
@@ -1048,6 +1179,7 @@
             "Alteracao": null
         },
         {
+            "Fonte": null,
             "Porta": null,
             "Conexao": null,
             "Descricao": null,
@@ -1056,6 +1188,7 @@
             "Alteracao": null
         },
         {
+            "Fonte": null,
             "Porta": null,
             "Conexao": null,
             "Descricao": null,
@@ -1064,6 +1197,7 @@
             "Alteracao": null
         },
         {
+            "Fonte": null,
             "Porta": null,
             "Conexao": null,
             "Descricao": null,
@@ -1072,6 +1206,7 @@
             "Alteracao": null
         },
         {
+            "Fonte": null,
             "Porta": null,
             "Conexao": null,
             "Descricao": null,
@@ -1080,6 +1215,7 @@
             "Alteracao": null
         },
         {
+            "Fonte": null,
             "Porta": null,
             "Conexao": null,
             "Descricao": null,
@@ -1088,6 +1224,7 @@
             "Alteracao": null
         },
         {
+            "Fonte": null,
             "Porta": null,
             "Conexao": null,
             "Descricao": null,
@@ -1096,6 +1233,7 @@
             "Alteracao": null
         },
         {
+            "Fonte": null,
             "Porta": null,
             "Conexao": null,
             "Descricao": null,
@@ -1104,6 +1242,7 @@
             "Alteracao": null
         },
         {
+            "Fonte": null,
             "Porta": null,
             "Conexao": null,
             "Descricao": null,
@@ -1112,6 +1251,7 @@
             "Alteracao": null
         },
         {
+            "Fonte": null,
             "Porta": null,
             "Conexao": null,
             "Descricao": null,
@@ -1120,6 +1260,7 @@
             "Alteracao": null
         },
         {
+            "Fonte": null,
             "Porta": null,
             "Conexao": null,
             "Descricao": null,
@@ -1128,6 +1269,7 @@
             "Alteracao": null
         },
         {
+            "Fonte": null,
             "Porta": null,
             "Conexao": null,
             "Descricao": null,
@@ -1136,6 +1278,7 @@
             "Alteracao": null
         },
         {
+            "Fonte": null,
             "Porta": null,
             "Conexao": null,
             "Descricao": null,
@@ -1144,6 +1287,7 @@
             "Alteracao": null
         },
         {
+            "Fonte": null,
             "Porta": null,
             "Conexao": null,
             "Descricao": null,
@@ -1152,6 +1296,7 @@
             "Alteracao": null
         },
         {
+            "Fonte": null,
             "Porta": null,
             "Conexao": null,
             "Descricao": null,
@@ -1160,6 +1305,7 @@
             "Alteracao": null
         },
         {
+            "Fonte": null,
             "Porta": null,
             "Conexao": null,
             "Descricao": null,
@@ -1168,6 +1314,7 @@
             "Alteracao": null
         },
         {
+            "Fonte": null,
             "Porta": null,
             "Conexao": null,
             "Descricao": null,
@@ -1176,6 +1323,7 @@
             "Alteracao": null
         },
         {
+            "Fonte": null,
             "Porta": null,
             "Conexao": null,
             "Descricao": null,
@@ -1184,6 +1332,7 @@
             "Alteracao": null
         },
         {
+            "Fonte": null,
             "Porta": null,
             "Conexao": null,
             "Descricao": null,
@@ -1192,6 +1341,7 @@
             "Alteracao": null
         },
         {
+            "Fonte": null,
             "Porta": null,
             "Conexao": null,
             "Descricao": null,
@@ -1200,6 +1350,7 @@
             "Alteracao": null
         },
         {
+            "Fonte": null,
             "Porta": null,
             "Conexao": null,
             "Descricao": null,
@@ -1208,6 +1359,7 @@
             "Alteracao": null
         },
         {
+            "Fonte": null,
             "Porta": null,
             "Conexao": null,
             "Descricao": null,
@@ -1216,6 +1368,7 @@
             "Alteracao": null
         },
         {
+            "Fonte": null,
             "Porta": null,
             "Conexao": null,
             "Descricao": null,
@@ -1224,6 +1377,7 @@
             "Alteracao": null
         },
         {
+            "Fonte": null,
             "Porta": null,
             "Conexao": null,
             "Descricao": null,
@@ -1232,6 +1386,7 @@
             "Alteracao": null
         },
         {
+            "Fonte": null,
             "Porta": null,
             "Conexao": null,
             "Descricao": null,
@@ -1240,6 +1395,7 @@
             "Alteracao": null
         },
         {
+            "Fonte": null,
             "Porta": null,
             "Conexao": null,
             "Descricao": null,
@@ -1248,6 +1404,7 @@
             "Alteracao": null
         },
         {
+            "Fonte": "VDX",
             "Porta": "VDX",
             "Conexao": "SFP",
             "Descricao": "TYPE",
@@ -1256,6 +1413,7 @@
             "Alteracao": null
         },
         {
+            "Fonte": 1,
             "Porta": 1,
             "Conexao": 3,
             "Descricao": "SM",
@@ -1264,6 +1422,7 @@
             "Alteracao": null
         },
         {
+            "Fonte": 1,
             "Porta": 1,
             "Conexao": 3,
             "Descricao": "SM",
@@ -1272,6 +1431,7 @@
             "Alteracao": null
         },
         {
+            "Fonte": 1,
             "Porta": 1,
             "Conexao": 3,
             "Descricao": "SM",
@@ -1280,6 +1440,7 @@
             "Alteracao": null
         },
         {
+            "Fonte": 1,
             "Porta": 1,
             "Conexao": 3,
             "Descricao": "SM",
@@ -1288,6 +1449,7 @@
             "Alteracao": null
         },
         {
+            "Fonte": 1,
             "Porta": 1,
             "Conexao": 3,
             "Descricao": "SM",
@@ -1296,6 +1458,7 @@
             "Alteracao": null
         },
         {
+            "Fonte": 1,
             "Porta": 1,
             "Conexao": 3,
             "Descricao": "SM",
@@ -1304,6 +1467,7 @@
             "Alteracao": null
         },
         {
+            "Fonte": 1,
             "Porta": 1,
             "Conexao": 3,
             "Descricao": "SM",
@@ -1312,6 +1476,7 @@
             "Alteracao": null
         },
         {
+            "Fonte": 1,
             "Porta": 1,
             "Conexao": 3,
             "Descricao": "SM",
@@ -1320,6 +1485,7 @@
             "Alteracao": null
         },
         {
+            "Fonte": 1,
             "Porta": 1,
             "Conexao": 3,
             "Descricao": "SM",
@@ -1328,6 +1494,7 @@
             "Alteracao": null
         },
         {
+            "Fonte": 1,
             "Porta": 1,
             "Conexao": 3,
             "Descricao": "SM",
@@ -1336,6 +1503,7 @@
             "Alteracao": null
         },
         {
+            "Fonte": 1,
             "Porta": 1,
             "Conexao": 3,
             "Descricao": "SM",
@@ -1344,6 +1512,7 @@
             "Alteracao": null
         },
         {
+            "Fonte": 1,
             "Porta": 1,
             "Conexao": 2,
             "Descricao": "TWINAX",
@@ -1352,6 +1521,7 @@
             "Alteracao": null
         },
         {
+            "Fonte": 12,
             "Porta": 12,
             "Conexao": 35,
             "Descricao": null,
@@ -1362,6 +1532,7 @@
     ],
     [
         {
+            "Fonte": "ICR01",
             "Porta": 1,
             "Conexao": "CORE01",
             "Descricao": "ISL PORT",
@@ -1369,6 +1540,7 @@
             "Velocidade ( Giga )": 10
         },
         {
+            "Fonte": "ICR01",
             "Porta": 2,
             "Conexao": "Switch_Agg_ICX",
             "Descricao": "TRUNK",
@@ -1376,6 +1548,7 @@
             "Velocidade ( Giga )": 10
         },
         {
+            "Fonte": "ICR01",
             "Porta": 21,
             "Conexao": "PISA01",
             "Descricao": "ISL PORT",
@@ -1383,6 +1556,7 @@
             "Velocidade ( Giga )": 10
         },
         {
+            "Fonte": "ICR01",
             "Porta": 17,
             "Conexao": "CORE02",
             "Descricao": "ISL PORT",
@@ -1390,6 +1564,7 @@
             "Velocidade ( Giga )": 10
         },
         {
+            "Fonte": "ICR01",
             "Porta": 37,
             "Conexao": "IOT01",
             "Descricao": "ISL PORT",
@@ -1399,6 +1574,7 @@
     ],
     [
         {
+            "Fonte": "PACS01",
             "Porta": 1,
             "Conexao": "CORE01",
             "Descricao": "ISL PORT",
@@ -1407,6 +1583,7 @@
             "Alteracao": null
         },
         {
+            "Fonte": "PACS01",
             "Porta": 2,
             "Conexao": "AGG_PACS",
             "Descricao": "PO 101",
@@ -1415,6 +1592,7 @@
             "Alteracao": null
         },
         {
+            "Fonte": "PACS01",
             "Porta": 17,
             "Conexao": "INRAD01",
             "Descricao": "ISL PORT",
@@ -1423,6 +1601,7 @@
             "Alteracao": null
         },
         {
+            "Fonte": "PACS01",
             "Porta": 18,
             "Conexao": "AGG_PACS",
             "Descricao": "PO 101",
@@ -1431,6 +1610,7 @@
             "Alteracao": null
         },
         {
+            "Fonte": "PACS01",
             "Porta": 19,
             "Conexao": "CORE02",
             "Descricao": "ISL PORT",
@@ -1439,6 +1619,7 @@
             "Alteracao": null
         },
         {
+            "Fonte": "PACS01",
             "Porta": 33,
             "Conexao": "NETI",
             "Descricao": "ISLPORT",
