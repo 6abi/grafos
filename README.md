@@ -54,7 +54,9 @@
 	<p align="left"> 2. Tenha uma conta no Google Colab</p>
   	<p align="left"> 2.1 Clone esse repositório e instale as dependências do projeto</p>
     	<p align="center">OU</p>
-	<p align="left"> 2.2 Crie um notebook e copie e cole os códigos nele para executar ou baixe o notebook do repositório e envie para o Google COlab</p>
+	<p align="left"> 2.2 Crie um notebook e copie e cole os códigos nele para executar ou baixe o notebook do repositório e envie para o Google Colab</p>
+	<p align="left"> 2.3 monte um drive no notebook e cria a estrutura de diretórios do projeto</p>
+	<p align="left"> 2.4 altere o código para corresponder aos seus diretórios no Google Drive</p>
 	<p align="center">Done ! ✅</p>
 </div>
 
