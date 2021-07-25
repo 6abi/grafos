@@ -49,7 +49,7 @@
 	<h2 align="center">🏃‍♀️ Como Executar este projeto? </h2>
 	<p align="left"> 1. Tenha o Python3 instalado, caso execute localmente</p>
   	<p align="left"> 1. Tenha o Jupyter Notebook instalado</p>
-  	<p align="left"> 1.1 Use um framework de sua preferência, Pycharm, Spider, etc</p>
+  	<p align="left"> 1.1 Use um framework de sua preferência, Pycharm, Spyder, etc</p>
 	<p align="left"> 1.2 Nesse projeto foi utilizado o Pycharm</p>
 	<p align="left"> 2. Tenha uma conta no Google Colab</p>
   	<p align="left"> 2.1 Clone esse repositório e instale as dependências do projeto</p>
