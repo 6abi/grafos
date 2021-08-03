@@ -2,11 +2,11 @@
  <!-- Explicação do projeto -->
 <h1 align="center">grafos</h1>
 <h2 align="center"> 🧾 Descrição do Projeto</h2>
-<p align="left">O seguinte projeto é uma proposta de Criação de grafos com a biblioteca NetworkX, com foco em redes de computadores de um complexo Hospitalar.</p>
+<p align="left">O seguinte projeto é uma proposta de Criação de grafos com a biblioteca NetworkX.  O objetivo final é criar um grafo que represente a topologia da rede de computadores de um complexo Hospitalar.</p>
 <p align="left">É dividido em três secções: </p>
 <p align="left">1º Tratamento de fonte de dados, tranformação para formato JSON e tratamento de acentuação </p>
-<p align="left">2º Transformação de JSON para Dataframe e tratamento de valores NaN</p>
-<p align="left">3º Uso do Dataframe criado na secção anterio para gerar Grafos</p>
+<p align="left">2º Transformação de JSON para Dataframe e tratamento de valores nulos</p>
+<p align="left">3º Uso do Dataframe criado na secção anterior para gerar Grafos</p>
 
  <!-- Status do projeto -->
  <h2 align="center"> ⁉ Status </h2>
