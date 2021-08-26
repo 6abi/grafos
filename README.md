@@ -66,7 +66,7 @@
 	<h2 align="center"> ⚡ Resultado inicial - Grafo  ⚡</h2>
 </div>
 <div align="center" class='result'>
-	<img alt="#grafo" title="#grafo" src="./output/grafo.png" width=1200" height="900"/>
+	<img alt="#grafo" title="#grafo" src="./output/grafo.png" width=1200" height="1000"/>
 </div>
 
 
