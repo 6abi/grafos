@@ -11,7 +11,7 @@
  <!-- Status do projeto -->
  <h2 align="center"> ⁉ Status </h2>
 <h4 align="center"> 
-	 🚧 Grafos 🚀 Em contrução...  🚧
+	 🚧 Em contrução...  🚧
 </h4>
 
 
