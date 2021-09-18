@@ -68,5 +68,13 @@
 <div align="center" class='result'>
 	<img alt="#grafo" title="#grafo" src="./output/grafo.png" width=1200" height="1000"/>
 </div>
+											 
+<!-- Resultado forms -->
+<div align="center" class='container'>
+	<h2 align="center"> ⚡ Resultado2 - Grafo com tamanho do nó de acordo com o Grau de centralidade  ⚡</h2>
+</div>
+<div align="center" class='result'>
+	<img alt="#grafo2" title="#grafo2" src="./output/grafo2.png" width=1200" height="1000"/>
+</div>
 
 
